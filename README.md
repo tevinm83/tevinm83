@@ -17,4 +17,4 @@ Vision-based attitude and inertia estimation for a tumbling, non-cooperative spa
 Python (NumPy, SciPy) · MATLAB/Simulink · Kalman filtering · attitude dynamics · orbital mechanics · Git
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/tevin-mclaren) · mclarentevin@gmail.com
+[LinkedIn](https://linkedin.com/in/tevin-mclaren)
